@@ -1,0 +1,13 @@
+This zip file contains optimized resources for http://jtrob704.github.io/frontend-nanodegree-mobile-portfolio/. The optimized resources are listed below in the format of: 
+filename: url
+
+Note: We only include up to 10 MB of optimized contents. If the
+optimized contents of your page are larger than 10 MB, we list them in
+this file too, with 'NOT INCLUDED' to indicate those URLs require
+further optimization.
+
+css/style.css: http://jtrob704.github.io/frontend-nanodegree-mobile-portfolio/css/style.css
+css/print.css: http://jtrob704.github.io/frontend-nanodegree-mobile-portfolio/css/print.css
+js/perfmatters.js: http://jtrob704.github.io/frontend-nanodegree-mobile-portfolio/js/perfmatters.js
+image/profilepic.jpg: http://jtrob704.github.io/frontend-nanodegree-mobile-portfolio/img/profilepic.jpg
+image/pizzeria.jpg: http://jtrob704.github.io/frontend-nanodegree-mobile-portfolio/views/images/pizzeria.jpg
